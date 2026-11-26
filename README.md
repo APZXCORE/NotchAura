@@ -29,7 +29,27 @@
 
 <br/><br/>
 
-<a href="https://notchaura.xyz">Website</a> · <a href="#-features">Features</a> · <a href="#-shortcuts">Shortcuts</a> · <a href="#-faq">FAQ</a> · <a href="https://github.com/APZXCORE/NotchAura/releases">Releases</a>
+<a href="#-preview">Preview</a> · <a href="#-features">Features</a> · <a href="#-the-scenes">Wallpapers</a> · <a href="#-shortcuts">Shortcuts</a> · <a href="#-faq">FAQ</a> · <a href="https://github.com/APZXCORE/NotchAura/releases">Releases</a>
+
+<br/><br/>
+
+<img src="./assets/shots/hero.png" width="88%" alt="NotchAura: the top of your screen, alive" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:07070b,30:7c5cff,70:ff6392,100:07070b&height=2" width="100%" />
+
+## 👁️ Preview
+
+<div align="center">
+
+<img src="./assets/shots/desktop.png" width="100%" alt="NotchAura desktop with the island, a live wallpaper, widgets and the dock" />
+
+<sub>The island up top, a live wallpaper, clock and stats widgets, and the dock along the bottom.</sub>
+
+<br/><br/>
+
+<img src="./assets/shots/features.png" width="100%" alt="Everything NotchAura does, one hover away" />
 
 </div>
 
@@ -70,7 +90,7 @@ Timer and Pomodoro in the closed island, reminders that chime, to-dos and notes.
 </td>
 <td width="50%" valign="top">
 
-### 🌌 Live Wallpapers
+### 🌌 The Scenes
 24 original animated scenes, or your own videos, GIFs and images. Span, match or mix across monitors. Pauses over fullscreen apps and on battery.
 
 ### 🧩 Desktop Widgets
@@ -88,6 +108,44 @@ Volume, brightness, mic mute, night light, screenshot, color picker, keep awake 
 </td>
 </tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:07070b,30:7c5cff,70:ff6392,100:07070b&height=2" width="100%" />
+
+## 🌌 The Scenes
+
+<div align="center">
+
+<b>24 original scenes, drawn live behind your icons.</b> These are real frames rendered by the app.
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center"><img src="./assets/scenes/synthwave.png" width="260" /><br/><sub><b>Synthwave</b></sub></td>
+<td align="center"><img src="./assets/scenes/aurora.png" width="260" /><br/><sub><b>Aurora</b></sub></td>
+<td align="center"><img src="./assets/scenes/sakura.png" width="260" /><br/><sub><b>Sakura</b></sub></td>
+</tr>
+<tr>
+<td align="center"><img src="./assets/scenes/night-drive.png" width="260" /><br/><sub><b>Night Drive</b></sub></td>
+<td align="center"><img src="./assets/scenes/nebula.png" width="260" /><br/><sub><b>Nebula</b></sub></td>
+<td align="center"><img src="./assets/scenes/rainy-night.png" width="260" /><br/><sub><b>Rainy Night</b></sub></td>
+</tr>
+<tr>
+<td align="center"><img src="./assets/scenes/galaxy.png" width="260" /><br/><sub><b>Galaxy</b></sub></td>
+<td align="center"><img src="./assets/scenes/neon-grid.png" width="260" /><br/><sub><b>Neon Grid</b></sub></td>
+<td align="center"><img src="./assets/scenes/ember.png" width="260" /><br/><sub><b>Ember</b></sub></td>
+</tr>
+</table>
+
+<sub>Plus Liquid, Starfield, Fireflies, Snow, Matrix, Lava, Plasma, Ocean, Sunset, Mono, Bokeh, Waves, Clouds, Forest and Candy. Or use your own videos, GIFs and images.</sub>
+
+<br/><br/>
+
+<img src="./assets/shots/dual-screen.png" width="100%" alt="One wallpaper spanned across two monitors" />
+
+<sub><b>Made for two screens.</b> Span one scene across monitors, use a matching pair, or pick a different one for each.</sub>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:07070b,30:7c5cff,70:ff6392,100:07070b&height=2" width="100%" />
 
@@ -178,7 +236,7 @@ b857f4867f73d79202ba6ba1d1dfce4ab3a4a36e75b438af35d64c4f09e36d68  NotchAura.exe
 
 <br/><br/>
 
-<sub>Made by <a href="https://github.com/APZXCORE">APZX</a> · AGHABuilds · <a href="https://notchaura.xyz">notchaura.xyz</a> · Not affiliated with Apple</sub>
+<sub>Made by <a href="https://github.com/APZXCORE">APZX</a> · AGHABuilds · Not affiliated with Apple</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6392,50:7c5cff,100:07070b&height=110&section=footer&animation=twinkling" width="100%" />
 
